@@ -33,7 +33,7 @@ RUN composer install \
 # Install frontend dependencies
 RUN npm install
 
-# Build Tailwind + Vite
+# Build Tailwind + Vite (production — satu-satunya yang dibutuhkan di Docker)
 RUN npm run build
 
 RUN chmod -R 775 storage bootstrap/cache
