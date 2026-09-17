@@ -8,6 +8,4 @@
     @include('components.home.steps')
     @include('components.home.security')
     @include('components.home.cta')
-
-
 @endsection
