@@ -42,7 +42,7 @@
     ];
 @endphp
 
-<section class="bg-white py-16 sm:py-20">
+<section class="bg-white py-4 sm:py-6">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <div class="rounded-2xl bg-blue-50/70 p-6 sm:p-8">
 
